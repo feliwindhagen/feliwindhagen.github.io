@@ -1,0 +1,46 @@
+.menu{
+background-color: blanchedalmond;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px;
+    color: darkgrey;
+    text-decoration: none;
+    margin: 10px;
+}
+.button:hover{
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
+
+   
+h1{color: cornflowerblue}
+h2{color: cornflowerblue}
+h3{color: cornflowerblue}
+
+.field{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    color: blanchedalmond;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+body{
+    padding:20px;
+    margin:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: auto;
+max-width: 800px;
+}
+
+img{
+    width:200px
+}
